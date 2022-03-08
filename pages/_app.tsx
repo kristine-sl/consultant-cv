@@ -1,8 +1,18 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+import type { AppProps } from 'next/app';
+import Head from 'next/head';
+import { Provider as ReduxProvider } from 'react-redux';
+import { store } from '../config/store';
 
-function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
-}
+const App = ({ Component, pageProps }: AppProps) => {
+  return (
+    <ReduxProvider store={store}>
+      <Head>
+        <title>Kristine S. Lorentzen</title>
+        <meta name="description" content="Curriculum Vitae" />
+      </Head>
+      <Component {...pageProps} />
+    </ReduxProvider>
+  );
+};
 
-export default MyApp
+export default App;
