@@ -7,9 +7,9 @@ import {
 } from '@emotion-icons/material-outlined';
 import { CategoryData } from 'cv';
 import {
+  canContribute,
   education,
   experience,
-  lookingFor,
   other,
   research,
 } from '../assets/data/index';
@@ -44,10 +44,10 @@ export const categories: CategoryData[] = [
     order: { xs: 4, xl: 4 },
   },
   {
-    header: 'categories.lookingFor',
+    header: 'categories.canContribute',
     icon: Help,
     type: 'list',
-    data: lookingFor,
+    data: canContribute,
     order: { xs: 5, xl: 5 },
   },
 ];

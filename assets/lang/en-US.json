@@ -17,7 +17,7 @@
   "categories.education": "Education",
   "categories.research": "Research",
   "categories.other": "Other",
-  "categories.lookingFor": "What I am looking for",
+  "categories.canContribute": "What I can contribute",
 
   "experience.visma.title": "Senior consultant",
   "experience.visma.subtitle": "Visma",
@@ -33,16 +33,6 @@
   "experience.westerdals.subtitle": "Westerdals Oslo ACT",
   "experience.westerdals.description": "In parallell with my masters studies, I was employed 50% as a Master's Fellow as the school. My tasks included lecturing in one subject per semester, help out with research at the department and to do my own research, including publishing research papers (see below). I had a lot of focus on usability, Internet of Things and how to exploit non-traditional surfaces for interaction, and got a lot of experience with testing such solutions.",
   "experience.westerdals.keywords": "Internet of Things, Java, UX, wearables, interaction design, research",
-
-  "experience.telenor.title": "Technical support",
-  "experience.telenor.subtitle": "Telenor",
-  "experience.telenor.description": "A part time position I had while studying at technical support for mobile broadband and fiber products (internet, phone and TV) for Telenor",
-  "experience.telenor.keywords": "Support",
-
-  "experience.humac.title": "Salesperson",
-  "experience.humac.subtitle": "Humac",
-  "experience.humac.description": "A part time position I held while studying as a salesperson with Humac, where I sold Apple products and accessories for those products.",
-  "experience.humac.keywords": "Sales, Apple",
 
   "education.master.title": "Master - Applied Computer Science",
   "education.master.subtitle": "Westerdals Oslo ACT",
@@ -77,50 +67,14 @@
   "research.bachelor.source": "Westerdals Oslo ACT",
   "research.bachelor.description": "This report describes the process of developing a user friendly simulation tool for simulating trafic from a delivery service to a security control at Oslo Airport and other similar areas.",
 
-  "other.mentor.type": "Reverse mentorship",
-  "other.mentor.title": "'Reverse mentor' for Per Hove",
-  "other.mentor.source": "TietoEVRY",
-  "other.mentor.description": "This was an arrangement where then CEO of EVRY wanted some young employees to give him a new perspective. I had the opportunity to be one of four mentors for Per for one year.",
-
   "other.award.type": "Awards",
   "other.award.title": "NKI Female Scholarship",
   "other.award.source": "NKI",
   "other.award.description": "Is awared to a student who, through academic performance and social activities, has promoted women in IT-education in an especially good manner.",
 
-  "other.marketingManager.type": "Administrative duties",
-  "other.marketingManager.title": "Marketing manager",
-  "other.marketingManager.source": "The Student Parlament at NITH",
-  "other.marketingManager.description": "Adminstering the marketing, both internally and externally, of The Student Parlament of NITH and the school's students, as well communication between and from the school's organizations.",
-
-  "other.tutor.type": "Volunteering",
-  "other.tutor.title": "Guidance Councellor",
-  "other.tutor.source": "Westerdals Oslo ACT",
-  "other.tutor.description": "During my time as a student at NITH / Westerdals I was a guidenance councelor for a range of courses. These include: Programming 1, Iterative web project, Advanced Java programming, and mobile development.",
-
-  "other.repetitionLecturer.type": "Volunteering",
-  "other.repetitionLecturer.title": "Repetition lecturer",
-  "other.repetitionLecturer.source": "Westerdals Oslo ACT",
-  "other.repetitionLecturer.description": "One of two students that alternated in holding repetition lectures which went through the subjects that had been taught earlier in the week, in the course Programming 1, normally once a week for 1-2 hours.",
-
-  "other.lkk.type": "Volunteering",
-  "other.lkk.title": "Teacher",
-  "other.lkk.source": "Lær Kidsa Koding",
-  "other.lkk.description": "I was a teacher for a beginners course in Scratch (https://scratch.mit.edu/) over 8 weeks at Deichmanske Library, Majorstua.",
-
-  "other.bartender.type": "Volunteering",
-  "other.bartender.title": "Bartender",
-  "other.bartender.source": "#fuBar",
-  "other.bartender.description": "Bartending at the studentbar at NITH / Westerdals. My responsibilities included serving drinks and snacks, as well as helping out with arranging a movie night once a week.",
-
-  "other.aug.type": "Volunteering",
-  "other.aug.title": "Deputy chairman",
-  "other.aug.source": "Apple User Group",
-  "other.aug.description": "The organization to support and help Apple users at NITH. My work included helping out with general administration of the group, as well as arranging events.",
-
-  "lookingFor.point.1": "The opportunity to use creative problem solving",
-  "lookingFor.point.2": "Tasks that allow me to work independently",
-  "lookingFor.point.3": "A place where I can develop and learn",
-  "lookingFor.point.4": "A good work culture where people lift each other up",
-  "lookingFor.point.5": "A position where I can utiilize my technical knowledge",
-  "lookingFor.point.6": "A company I can help build and make better"
+  "canContribute.point.1": "Creative and user friendly solutions",
+  "canContribute.point.2": "A lot of technical knowledge of frontend and accessibility",
+  "canContribute.point.3": "The ability to both work independently and in teams",
+  "canContribute.point.4": "A desire to to both build and share knowledge",
+  "canContribute.point.5": "Contributions towards building a better work culture"
 }

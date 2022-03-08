@@ -21,21 +21,5 @@
     "subtitle": "experience.westerdals.subtitle",
     "description": "experience.westerdals.description",
     "keywords": "experience.westerdals.keywords"
-  },
-  {
-    "startYear": 2013,
-    "endYear": 2015,
-    "title": "experience.telenor.title",
-    "subtitle": "experience.telenor.subtitle",
-    "description": "experience.telenor.description",
-    "keywords": "experience.telenor.keywords"
-  },
-  {
-    "startYear": 2010,
-    "endYear": 2013,
-    "title": "experience.humac.title",
-    "subtitle": "experience.humac.subtitle",
-    "description": "experience.humac.description",
-    "keywords": "experience.humac.keywords"
   }
 ]

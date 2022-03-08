@@ -17,7 +17,7 @@
   "categories.education": "Utdanning",
   "categories.research": "Forskning",
   "categories.other": "Annet",
-  "categories.lookingFor": "Hva jeg ser etter",
+  "categories.canContribute": "Hva jeg kan bidra med",
 
   "experience.visma.title": "Senior konsulent",
   "experience.visma.subtitle": "Visma",
@@ -33,16 +33,6 @@
   "experience.westerdals.subtitle": "Westerdals Oslo ACT",
   "experience.westerdals.description": "Parallelt med mitt masterstudie var jeg ansatt 50% som masterstipendiat på skolen. Mine arbeidsoppgaver inkluderte å forelese i ett fag per semester, hjelpe til med forskningsarbeid på avdelingen og gjøre eget forskningsarbeid, inkludert å publisere forskningsartikler (se 'Forskning'). Jeg hadde mye fokus på brukervennlighet, Internet of Things og hvordan å utnytte utradsjonelle flater for interaksjon, og fikk mye erfaring med hvordan å teste slike løsninger.",
   "experience.westerdals.keywords": "Internet of Things, Java, UX, wearables, interaksjonsdesign, forskning",
-
-  "experience.telenor.title": "Teknisk support",
-  "experience.telenor.subtitle": "Telenor",
-  "experience.telenor.description": "En deltidsstilling ved siden av studier på teknisk support for mobilt bredbånd og fiberprodukter (nett, telefon og TV) for Telenor.",
-  "experience.telenor.keywords": "Support",
-
-  "experience.humac.title": "Selger",
-  "experience.humac.subtitle": "Humac",
-  "experience.humac.description": "En deltidsstilling ved siden av studier som selger hos Humac, hvor jeg solgte Apple-produkter og tilbehør til disse.",
-  "experience.humac.keywords": "Salg, Apple",
 
   "education.master.title": "Master - Applied Computer Science",
   "education.master.subtitle": "Westerdals Oslo ACT",
@@ -117,10 +107,9 @@
   "other.aug.source": "Apple User Group",
   "other.aug.description": "Organisasjonen var ansvarlig for å støtte og hjelpe brukere av Apple-produkter på NITH. Mitt arbeid inkluderte å hjelpe til med den generelle administrasjonen av gruppen og arrangering av eventer.",
 
-  "lookingFor.point.1": "Muligheten for å bruke kreativ problemløsning",
-  "lookingFor.point.2": "Arbeidsoppgaver som lar meg jobbe selvstendig",
-  "lookingFor.point.3": "Et sted hvor jeg kan utvikle meg",
-  "lookingFor.point.4": "En god arbeidskultur hvor man bygger opp hverandre",
-  "lookingFor.point.5": "En stilling hvor jeg kan utnytte min tekniske kunnskap",
-  "lookingFor.point.6": "En bedrift jeg kan hjelpe med å bygge opp og gjøre bedre"
+  "canContribute.point.1": "Kreative og brukervennlige løsninger",
+  "canContribute.point.2": "Mye teknisk kunnskap om frontend og universell utforming",
+  "canContribute.point.3": "Evnen til å jobbe både selvstendig og i team",
+  "canContribute.point.4": "Et ønske om både å bygge og dele kompetanse",
+  "canContribute.point.5": "Bidrag til å bygge en bedre arbeidskultur"
 }
