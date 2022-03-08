@@ -17,6 +17,10 @@ export const lightTheme = createTheme({
   },
   typography: {
     ...typography,
+    h1: {
+      ...typography.h1,
+      color: '#2e2855',
+    },
     subtitle2: {
       ...typography.subtitle2,
       color: '#ff0068',
