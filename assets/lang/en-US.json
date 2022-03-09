@@ -19,6 +19,12 @@
   "categories.other": "Other",
   "categories.canContribute": "What I can contribute",
 
+  "experience.cowork.title": "Senior consultant",
+  "experience.cowork.subtitle": "Cowork AS",
+  "experience.cowork.description": "At Cowork I have a role as a senior frontend developer, with a focus on accessibility. Since my start at the company in January of 2022 I have worked on two React-projects for one of our media clients, which they were very pleased with. In my role I can contribute both with technical knowledge surrounding implementation of solutions, as well as design and usability. I am especially interested in accessibility, and know a lot about both testing and implementation to make sure that all users that use a service gets a good experience.",
+
+  "experience.cowork.keywords": "React, Magento, e-commerce, universal design",
+
   "experience.visma.title": "Senior consultant",
   "experience.visma.subtitle": "Visma",
   "experience.visma.description": "At Visma I've had the opportunity to work as a developer on multiple consultancy projects. I spent one year at the department Visma Consulting, placed on a project with the Directorate of Agriculture where I worked on a React application. On the project, I had a general development role, as well as a responsibility for testing and implementation of universal design. After the project ended, I was moved to Visma Digital Commerce, where I worked with the development of online stores for a range of customers on the platform Magento.",

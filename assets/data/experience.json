@@ -1,6 +1,14 @@
 [
   {
+    "startYear": 2022,
+    "title": "experience.cowork.title",
+    "subtitle": "experience.cowork.subtitle",
+    "description": "experience.cowork.description",
+    "keywords": "experience.cowork.keywords"
+  },
+  {
     "startYear": 2019,
+    "endYear": 2022,
     "title": "experience.visma.title",
     "subtitle": "experience.visma.subtitle",
     "description": "experience.visma.description",

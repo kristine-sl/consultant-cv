@@ -27,14 +27,14 @@ export const categories: CategoryData[] = [
     icon: School,
     type: 'timeline',
     data: education,
-    order: { xs: 2, xl: 3 },
+    order: { xs: 2, xl: 2 },
   },
   {
     header: 'categories.research',
     icon: Biotech,
     type: 'articles',
     data: research,
-    order: { xs: 3, xl: 2 },
+    order: { xs: 3, xl: 3 },
   },
   {
     header: 'categories.other',

@@ -19,9 +19,14 @@
   "categories.other": "Annet",
   "categories.canContribute": "Hva jeg kan bidra med",
 
+  "experience.cowork.title": "Senior frontendutvikler",
+  "experience.cowork.subtitle": "Cowork AS",
+  "experience.cowork.description": "Hos Cowork har jeg en rolle som senior frontendutvikler, med et fokus på universell utforming. Siden min start i Januar 2022 har jeg jobbet med to React-prosjeketer for en av våre mediakunder, som de har vært meget fornøyde med. I min rolle kan jeg bidra både med teknisk kunnskap og evne rundt implementasjon av løsninger, i tillegg til design og brukervennlighet. Jeg er spesielt interessert i Universell Utforming og kan mye rundt både testing og implementasjon for å sørge for at alle brukere som bruker en tjeneste får en god opplevelse.",
+  "experience.cowork.keywords": "React, universell utforming, UX & UI, design",
+
   "experience.visma.title": "Senior konsulent",
   "experience.visma.subtitle": "Visma",
-  "experience.visma.description": "Hos Visma har jeg fått muligheten til å jobbe som utvikler på flere konsulentoppdrag. Jeg tilbragte først et år på avdelingen Visma Consulting, utplassert på prosjekt hos Landbruksdirektoratet hvor jeg jobbet med en React-applikasjon. På prosjektet hadde jeg en generell utviklerrolle, samt ansvar for testing og implementasjon av universell utforming. Etter prosjektet ble jeg flyttet til Visma Digital Commerce, hvor jeg har jobbet med utvikling av nettbutikker for en rekke kunder på platformen Magento.",
+  "experience.visma.description": "Hos Visma fikk jeg muligheten til å jobbe som utvikler på flere konsulentoppdrag. Jeg tilbragte først et år på avdelingen Visma Consulting, utplassert på prosjekt hos Landbruksdirektoratet hvor jeg jobbet med en React-applikasjon. På prosjektet hadde jeg en generell utviklerrolle, samt ansvar for testing og implementasjon av universell utforming. Etter prosjektet flyttet jeg til Visma Digital Commerce, hvor jeg jobbet med utvikling av nettbutikker for en rekke kunder på platformen Magento.",
   "experience.visma.keywords": "React, Magento, e-commerce, universell utforming",
 
   "experience.tietoevry.title": "Konsulent og utvikler",
